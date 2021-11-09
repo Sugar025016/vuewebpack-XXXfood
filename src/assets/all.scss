@@ -1,0 +1,7 @@
+@import "~bootstrap/scss/functions";//載入bootrap套用變數的方法，載入後下面的方法才能啟用
+@import "./helpers/_variables";
+@import "~bootstrap/scss/bootstrap";
+
+@import "./_dashboard";
+@import "./_navbar";
+@import "./_other";
